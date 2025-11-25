@@ -1,299 +1,298 @@
-N,Modelo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio 
-310,Realme C51  ,Realme,58,1,verde,0,4,128,1842.03
-117,Invens note Tk01 ,Invens,2,1,,0,4,96,1842.07
-29,White Shark A60 Black,White shark,5,1,negro,0,4,64,1999.00
-31,White Shark I16 Pro,White shark,5,1,blanco,0,4,64,1999.00
-48,White Shark A60 ,White shark,5,1,blanco,0,4,64,1999.00
-58,Samsung Galaxy A05 ,Samsung,26,1,negro,0,4,128,1999.00
-75,Motorola E15  ,Motorola,24,0,azul,0,2,64,1999.00
-131,White Shark ss25 ,White shark,5,1,blanco,0,8,128,1999.00
-149,Zte Blade A56 ,Zte,4,0,dorado,0,12,128,1999.00
-183,Motorola E15  ,Motorola,24,0,morado,0,2,64,1999.00
-208,Intel A50 A667l ,Intel,1,1,amarillo,0,2,64,1999.00
-230,Ssjsj   ,Sjsj,14,0,morado,0,2,16,2029.50
-235,Ssjsj   ,Sjsj,14,0,negro,0,2,16,2029.50
-119,Samsung Galaxy A06 64,Samsung,26,0,azul,0,4,64,2079.00
-121,Xiaomi Poco C71 ,Xiaomi,49,1,azul,0,4,128,2085.00
-102,Moto G05 4 ,Motorola,24,0,rojo,0,4,64,2099.00
-85,Vivo X25 Ultra ,Vivo,5,0,black),0,8,128,2113.70
-320,Realme Note 70T ,Realme,58,0,dorado,0,4,64,2120.42
-46,Xiaomi Poco C71 ,Xiaomi,49,1,negro,0,4,128,2185.00
-290,Realme Note 60 ,Realme,58,1,negro,0,6,128,2196.80
-104,Vivo X25 Ultra ,Vivo,5,0,dorado,0,8,128,2205.60
-229,Ssjsj   ,Sjsj,14,0,morado,0,2,16,2214.00
-28,Samsung Galaxy A05s ,Samsung,26,0,negro,0,4,128,2288.00
-322,Realme Note 60 128,Realme,58,0,azul,0,8,128,2300.00
-236,Sjsj Ssjsj Mobile ,Sjsj,14,0,,0,8,8,2366.21
-214,Nubia V70  ,Nubia,6,0,gris,0,6,128,2388.66
-165,Honor X5b 4 ,Honor,22,1,azul,0,4,128,2399.00
-239,Honor X5b 4 ,Honor,22,1,morado,0,4,128,2499.00
-141,Cubot A40  ,Cubot,14,0,morado,0,4,256,2520.45
-186,OscalÂ® Tiger Lite ,OscalÂ®,1,1,,0,24,256,2533.12
-243,Note13 Pro+ ,Note,1,0,negro,0,2,16,2535.53
-303,Realme C21y Unisoc ,Realme,58,0,azul,0,4,64,2599.00
-45,Samsung Galaxy A16 ,Samsung,26,1,verde,1,6,128,2699.00
-60,ZTE Focus  ,ZTE,4,0,negro,0,4,256,2699.00
-264,Pava 6 pro   ,Pava,1,0,,1,16,512,2704.36
-192,Realme Note 70T ,Realme,58,1,,0,4,128,2726.16
-118,Samsung Galaxy A16 ,Samsung,26,0,gris,1,4,128,2805.00
-152,Motorola Moto ,Motorola,24,1,negro,1,8,128,2815.82
-26,Pocophone Poco M5s ,Xiaomi,49,1,gris,0,8,256,2846.25
-147,Vivo V30 Lite ,Vivo,5,0,dorado,1,12,256,2890.60
-238,Cubot A10  ,Cubot,14,0,morado,0,4,128,2901.52
-18,Zte Blade V70 ,Zte,4,0,verde,0,14,256,2905.14
-181,Infinix Hot 50i 256,Infinix,11,1,negro,0,4,256,2932.00
-173,Hotwav Note 15 ,Hotwav,2,0,,0,8,64,2945.60
-231,Ssjsj   ,Sjsj,14,0,morado,0,2,16,2968.79
-232,Ssjsj S25ultra  ,Sjsj,14,0,blanco,0,2,16,2968.79
-233,Ssjsj 13promax  ,Sjsj,14,0,negro,0,2,16,2968.79
-224,Ssjsj 15promax  ,Sjsj,14,0,dorado,0,3,64,2968.97
-225,Ssjsj 14promax  ,Sjsj,14,0,blanco,0,2,16,2968.97
-226,Ssjsj 14promax  ,Sjsj,14,0,negro,0,3,64,2968.97
-227,Ssjsj 13promax  ,Sjsj,14,0,morado,0,3,64,2968.97
-234,Ssjsj   ,Sjsj,14,0,verde,0,3,32,2969.34
-25,Motorola Moto G15 ,Motorola,24,0,gris,0,4,256,2999.00
-73,Motorola G15  ,Motorola,24,0,gris,0,4,256,2999.00
-108,White Shark S25ultra+ ,White shark,5,1,blanco,0,16,512,2999.00
-194,Xiaomi Redmi 15c 4+128,Xiaomi,49,0,negro,0,4,128,2999.00
-197,Xiaomi Redmi 15c ,Xiaomi,49,0,azul,0,8,256,2999.00
-293,Realme C61  ,Realme,58,0,verde,0,4,256,2999.00
-159,Xiaomi Pocophone Poco C75,Xiaomi,49,1,negro,0,6,128,3003.66
-70,Infinix Hot 60i ,Infinix,11,0,rojo,0,8,256,3010.00
-203,Motorola Moto G54 ,Motorola,24,1,,1,8,128,3017.40
-98,Xiaomi Pocophone Poco M7,Xiaomi,49,1,azul,0,6,128,3018.18
-298,Realme Note 70T ,Realme,58,0,negro,0,4,128,3131.96
-87,Itel S26 Ultra ,Itel,1,1,,0,16,256,3198.12
-188,Xiaomi Redmi Note 14,Xiaomi,49,1,verde,0,6,128,3199.00
-92,Xiaomi Pocophone Xiaomi Poco,Xiaomi,49,1,negro,0,8,256,3299.00
-317,Realme 10  ,Realme,58,0,negro,0,8,128,3299.00
-133,Xiaomi Pocophone Poco ,Xiaomi,49,1,morado,0,8,256,3333.00
-67,Honor Play 9s ,Honor,22,1,negro,0,8,256,3390.00
-68,X-tigi Bison1 Kingkong ,X-tigi,1,1,negro,0,6,64,3398.50
-301,Realme C65  ,Realme,58,0,dorado,0,6,128,3455.11
-38,Motorola Moto G34 ,Motorola,24,1,azul,1,8,256,3471.61
-49,Moto G34  ,Motorola,24,1,negro,1,8,256,3471.61
-51,Xiaomi Poco M7 ,Xiaomi,49,1,plata,0,8,256,3482.27
-20,Realme C75  ,Realme,58,0,negro,0,8,256,3499.00
-281,Realme C75  ,Realme,58,1,negro,0,8,256,3499.00
-284,Realme C63  ,Realme,58,0,azul,0,8,256,3499.00
-321,Realme Note 50 128,Realme,58,0,azul,0,8,128,3500.00
-172,Cubot King Kong Power,Cubot,14,1,negro,0,6,256,3556.81
-122,Hotwav Note 16 Pro,Hotwav,2,0,,0,12,128,3558.13
-307,Realme 9  ,Realme,58,0,blanco,0,8,128,3559.00
-86,Oppo A40 128 ,Oppo,6,0,morado,0,4,128,3599.00
-1,Poco M6  ,Xiaomi,49,1,plata,0,8,256,3637.40
-124,Cubot Kingkong Es ,Cubot,14,1,negro,0,6,128,3650.78
-95,INVENS Ultra 13P ,INVENS,2,1,,0,16,128,3675.82
-304,Realme P3 Lite ,Realme,58,0,,0,8,256,3684.00
-259,Gt10pro   ,Gt10pro,1,1,plata,0,16,512,3688.00
-94,Realme P3 Lite ,Realme,58,0,,0,8,256,3706.00
-76,Moto55 Moto g55 ,Motorola,24,1,negro,0,8,256,3714.41
-125,Cubot Kingkong Es ,Cubot,14,1,negro,0,6,256,3799.21
-156,Xiaomi Redmi A5 4g,Xiaomi,49,0,negro,0,4,128,3829.00
-206,Nubia Music 2 ,Nubia,6,0,,0,8,256,3832.00
-241,Cubot Kingkong Ace2 ,Cubot,14,1,verde,0,6,128,3855.71
-204,Samsung Galaxy S20 ,Samsung,26,0,negro,1,12,128,3919.00
-144,Honor X6c 4g 6,Honor,22,0,negro,0,6,128,3999.00
-145,Honor X6c 4g 6,Honor,22,0,azul,0,6,128,3999.00
-171,Honor X6b 4g 256,Honor,22,0,morado,0,6,256,3999.00
-100,Xiaomi Pocophone Poco M7,Xiaomi,49,1,morado,0,8,256,4170.79
-128,Honor X8b  ,Honor,22,0,azul,0,8,512,4185.00
-295,Realme Note  ,Realme,58,0,negro,0,4,128,4198.92
-140,Cubot P90  ,Cubot,14,0,morado,0,12,256,4206.87
-175,Samsung Galaxy A16 ,Samsung,26,0,negro,0,8,256,4234.12
-228,Ssjsj   ,Sjsj,14,0,negro,0,3,64,4243.68
-88,Cubot King Kong 8,Cubot,14,1,negro,0,6,256,4284.29
-30,Samsung Galaxy A16 ,Samsung,26,1,negro,1,6,128,4286.00
-15,Honor X8b  ,Honor,22,0,plata,1,8,512,4299.00
-308,Realme C67  ,Realme,58,0,negro,0,16,256,4300.00
-223,F150 B2 PRO ,F150,1,1,negro,0,12,256,4345.31
-146,Vivo Y19s  ,Vivo,5,0,plata,0,8,256,4377.00
-167,Xiaomi Pocophone Xiaomi Poco,Xiaomi,49,1,negro,0,6,128,4379.00
-313,Realme C71 4 ,Realme,58,0,,0,4,256,4469.00
-59,Moto G15 128 ,Motorola,24,0,gris,0,4,128,4489.00
-66,Motorola Moto G15 ,Motorola,24,0,Naranja,0,4,128,4489.00
-148,Blackview Wave 8 ,Blackview,3,1,,0,4,128,4499.00
-84,Samsung Galaxy A35 ,Samsung,26,0,azul,1,6,128,4616.00
-61,Motorola Moto G15 ,Motorola,24,0,verde,0,4,256,4626.00
-177,Cubot X100  ,Cubot,14,1,negro,1,8,256,4639.69
-202,Realme Note 70 ,Realme,58,1,,0,4,256,4799.00
-300,Realme Note 70 ,Realme,58,1,,0,16,256,4799.00
-136,Motorola Moto S50 ,Motorola,24,0,gris,1,12,256,4886.69
-114,Xiaomi Redmi Note 14,Xiaomi,49,1,negro,0,8,256,4899.02
-280,Realme LINHA C C63,Realme,58,1,verde,0,8,256,4899.02
-81,Cmf by Nothing Phone,Nothing phone,1,1,negro,0,8,256,4921.24
-39,Samsung Galaxy A16 ,Samsung,26,0,gris,0,4,128,4949.00
-151,Samsung Galaxy A16 ,Samsung,26,0,negro,0,4,128,4949.00
-220,Nubia Neo  ,Nubia,6,0,negro,1,8,256,4961.86
-193,Realme C71  ,Realme,58,0,,0,8,256,4989.00
-24,Xiaomi Redmi 13x ,Xiaomi,49,1,negro,0,8,512,4999.00
-44,Xiaomi Redmi 13x 256,Xiaomi,49,1,azul,0,8,256,4999.00
-55,Honor X7c  ,Honor,22,0,negro,0,8,256,4999.00
-63,Tecno Pova 6 ,Tecno,4,0,verde,0,8,256,4999.00
-64,Moto G35  ,Motorola,24,0,negro,0,4,256,4999.00
-89,Xiaomi Redmi Note 14,Xiaomi,49,1,azul,0,8,256,4999.00
-90,Xiaomi Pocophone Poco X7,Xiaomi,49,0,negro,0,8,256,4999.00
-103,Vivo Y19s 256 ,Vivo,5,0,plata,0,8,256,4999.00
-132,Honor X7c  ,Honor,22,0,verde,0,8,256,4999.00
-138,ZTE Axon 70 ,ZTE,4,0,verde,0,6,256,4999.00
-161,Xiaomi Pocophone Poco X7,Xiaomi,49,0,verde,0,8,256,4999.00
-190,Huawei Nova 10 SE,Huawei,1,0,verde,0,8,256,4999.00
-256,Tecno Pova 6 Pro,Tecno,4,1,gris,1,8,256,5092.20
-246,Ssjsj S25ultra  ,Sjsj,14,0,azul,0,8,128,5221.42
-191,Doogee Note 59 ,Doogee,12,0,,1,32,128,5476.08
-221,Oukitel C61 Pro ,Oukitel,1,0,morado,0,24,256,5476.69
-101,Xiaomi Poco F6 ,Xiaomi,49,0,verde,0,8,256,5482.39
-16,Samsung Galaxy M35 ,Samsung,26,0,azul,1,6,128,5499.00
-111,Samsung Galaxy A17 ,Samsung,26,1,negro,1,8,256,5499.00
-267,Xiaomi Redmi K50 Gaming,Xiaomi,49,1,negro,0,12,256,5499.00
-27,Motorola Moto G75 ,Motorola,24,1,negro,1,8,256,5506.28
-270,Doogee Blade 20 ,Doogee,12,0,,0,4,128,5507.40
-109,Xiaomi Redmi Note ,Xiaomi,49,0,azul,0,12,512,5514.00
-22,Motorola Edge 50 Fusion,Motorola,24,0,azul,1,8,256,5522.22
-142,Doogee Fire 6 Power,Doogee,12,0,,0,20,256,5540.47
-11,Infinix Note 50x ,Infinix,11,1,gris,1,8,256,5570.00
-244,Cubot Kingkong Power 5,Cubot,14,1,negro,0,6,128,5618.84
-160,Tecno Pova Slim ,Tecno,4,1,,1,8,256,5661.04
-79,Moto G85  ,Motorola,24,0,azul,1,8,256,5699.00
-179,Xiaomi Pocophone Poco M7,Xiaomi,49,1,plata,0,8,256,5713.00
-74,Xiaomi Poco X7 Pro,Xiaomi,49,0,negro,1,12,256,5727.00
-252,DOOGEE Fire 3 ,DOOGEE,12,1,,0,12,64,5747.40
-71,Fossibot F112 Pro ,Fossibot,2,1,azul,0,24,256,5856.97
-10,Infinix Note 50 Pro,Infinix,11,0,morado,0,8,256,5881.60
-130,Cubot KingKong 9 ,Cubot,14,1,negro,0,12,256,5911.81
-50,Realme 12 Pro ,Realme,58,0,azul,0,12,512,5937.84
-137,Xiaomi Redmi Note 13,Xiaomi,49,1,negro,0,8,256,5974.00
-91,Honor X7c 4g ,Honor,22,1,white,0,8,256,5999.00
-96,Motorola Moto G56 256,Motorola,24,0,gris,0,8,256,5999.00
-205,Motorola Edge 40 Neo,Motorola,24,0,negro,1,8,256,5999.00
-277,Realme 15t  ,Realme,58,0,,1,8,256,5999.00
-279,Realme 12  ,Realme,58,0,verde,0,8,256,5999.00
-2,Xiaomi Redmi Note 14s,Xiaomi,49,0,negro,0,12,512,6047.02
-78,Samsung Galaxy A26 ,Samsung,26,0,amoled,1,8,256,6055.00
-306,Realme 15t  ,Realme,58,0,plata,1,8,256,6193.72
-56,Xiaomi Pocophone Poco M7,Xiaomi,49,1,negro,1,12,512,6199.00
-112,Google Pixel 8A ,Google,1,0,negro,0,8,128,6199.00
-196,Honor X8c  ,Honor,22,0,verde,0,8,256,6249.00
-215,Oppo A5 Pro Azul,Oppo,6,0,azul,0,8,256,6249.00
-305,Realme P3  ,Realme,58,0,gris,1,8,256,6428.58
-164,Infinix Note 50 ,Infinix,11,0,negro,0,8,256,6502.11
-41,Xiaomi Redmi Note 14,Xiaomi,49,1,negro,0,8,256,6522.00
-72,Honor X8c 4g ,Honor,22,0,negro,0,8,512,6671.94
-182,Honor X8c 4g ,Honor,22,1,verde,0,8,512,6727.08
-5,Samsung Galaxy A36 ,Samsung,26,0,negro,1,6,128,6799.00
-287,Realme 12 Pro+ ,Realme,58,0,beige,1,8,256,6815.40
-207,Samsung Galaxy S23 Plus,Samsung,26,0,negro,1,8,256,6917.00
-33,Xiaomi Redmi Note ,Xiaomi,49,0,morado,0,8,256,6937.00
-9,Xiaomi 12 Pro ,Xiaomi,49,1,gris,1,12,256,6983.00
-312,Realme C53  ,Realme,58,0,negro,0,12,256,6998.00
-113,Samsung Galaxy A56 ,Samsung,26,1,negro,1,8,256,6999.00
-199,DOOGEE Blade10 Max ,DOOGEE,12,0,negro,0,32,256,6999.00
-115,Xiaomi Redmi Note 14,Xiaomi,49,1,morado,1,8,256,7000.00
-65,Honor 400 Lite ,Honor,22,1,verde,1,12,256,7019.00
-180,Realme 14 Pro ,Realme,58,0,blanco,1,8,256,7076.80
-282,Realme 14 Pro ,Realme,58,0,gris,1,8,256,7080.65
-129,Xiaomi Poco F6 ,Xiaomi,49,0,verde,1,12,512,7168.20
-162,Xiaomi Pocophone Poco X7,Xiaomi,49,1,verde,1,12,512,7181.98
-248,Tecno Pova 7 Pro,Tecno pova,1,1,azul,1,12,256,7239.06
-266,Tecno Pova 7 Pro,Tecno,4,1,,1,12,256,7239.06
-80,Samsung Galaxy A55 ,Samsung,26,1,azul,1,8,128,7249.00
-276,Realme P3 12 ,Realme,58,0,,1,12,512,7284.56
-57,Xiaomi Poco X7 Pro,Xiaomi,49,0,negro,1,8,256,7325.72
-286,Realme P3 12 ,Realme,58,0,gris,1,12,512,7343.10
-247,Doogee Blade 10 Max,Doogee,12,0,,0,20,256,7349.40
-166,Nubia Neo 3GT ,Nubia,6,0,amarillo,1,8,256,7499.00
-299,Realme 14t  ,Realme,58,0,negro,1,8,256,7499.00
-314,Realme 12 Plus ,Realme,58,0,,0,12,256,7499.00
-174,Honor 400 12 ,Honor,22,0,negro,0,12,256,7529.69
-7,Infinix GT 30 Pro,Infinix,11,1,gris,1,12,256,7570.00
-291,Realme 15  ,Realme,58,0,gris,1,8,256,7598.00
-52,Honor X9c 256 ,Honor,22,0,negro,0,8,256,7679.00
-155,Xiaomi Poco F6 ,Xiaomi,49,0,negro,1,12,512,7794.83
-170,Fossibot F106  ,Fossibot,2,0,negro,0,15,256,7807.13
-42,Infinix GT 30 Pro,Infinix,11,1,blanco,1,12,256,7999.00
-318,Realme C55 256 ,Realme,58,0,,0,8,256,8000.00
-265,Xiaomi Redmi K50 Gaming,Xiaomi,49,1,plata,0,12,256,8048.85
-6,Xiaomi Redmi Note 14,Xiaomi,49,1,negro,1,8,256,8181.00
-35,Xiaomi Poco F7 ,Xiaomi,49,1,negro,1,12,256,8283.13
-126,Cubot MAX 5 ,Cubot,14,1,negro,1,12,256,8284.02
-316,Realme 14t  ,Realme,58,1,negro,1,8,256,8302.50
-134,Xiaomi Poco X7 Pro,Xiaomi,49,1,verde,1,8,256,8399.00
-32,Xiaomi Poco X7 Pro,Xiaomi,49,0,amarillo,1,12,512,8427.41
-3,Cubot Kingkong 11 ,Cubot,14,1,negro,1,16,256,8570.00
-283,Realme 12 Pro Plus,Realme,58,0,azul,0,12,512,8694.24
-311,Realme 14 Pro Plus,Realme,58,0,gris,1,12,512,8708.49
-135,Cubot Kingkong X ,Cubot,14,1,negro,1,16,256,8719.66
-218,Realme 14 Pro ,Realme,58,1,gris,1,12,256,8750.00
-189,Blackview Bv7300 Rugged Phone,Blackview,3,0,,0,18,256,8912.33
-237,Oscal Pilot1 18+256 ,Oscal,1,0,negro,0,18,256,8953.78
-8,Xiaomi Poco X7 Pro,Xiaomi,49,0,negro,1,12,512,8999.00
-106,Honor Magic 7 Lite,Honor,22,0,negro,0,8,512,8999.00
-254,Infinix Gt 30 Pro,Infinix,11,1,negro,1,12,256,8999.00
-21,Ulefone Armor 24 ,Ulefone,2,1,negro,0,24,256,9003.08
-296,Realme 14 Pro Plus,Realme,58,0,gris,1,8,256,9087.14
-216,Realme Realme 12 ,Realme,58,1,verde,1,8,256,9139.46
-212,Ulefone Armor X31 Pro,Ulefone,2,1,,1,16,256,9204.63
-4,Infinix Gt 30 Pro,Infinix,11,1,gris,1,12,512,9284.50
-37,Samsung Galaxy S25 Fe,Samsung,26,0,azul,1,8,128,9499.99
-13,Oppo Reno14 F ,Oppo,6,1,verde,1,12,256,9554.66
-169,Xiaomi Poco F7 ,Xiaomi,49,1,plata,0,12,256,9669.00
-297,Realme 14 Pro ,Realme,58,0,gris,1,12,512,9699.00
-14,Samsung Galaxy A56 ,Samsung,26,0,negro,1,8,128,9800.00
-289,Realme 13 Pro Plus,Realme,58,0,dorado,1,8,256,9823.94
-53,Xiaomi Poco F7 ,Xiaomi,49,1,blanco,1,12,512,9857.56
-83,Samsung Galaxy A56 ,Samsung,26,1,gris,1,8,256,9899.00
-23,Honor Magic 7 Lite,Honor,22,0,morado,1,8,512,9999.00
-127,Blackview BL7000  ,Blackview,3,1,,1,24,256,9999.00
-163,Oppo A5 Pro ,Oppo,6,0,rosa,1,16,256,9999.00
-211,Xiaomi Redmi Note 14,Xiaomi,49,1,azul,1,12,512,9999.00
-217,Honor X9c  ,Honor,22,1,negro,1,8,256,9999.00
-302,Realme 15 Pro ,Realme,58,0,,1,12,512,9999.00
-271,Doogee Blade20 Max es,Doogee,12,1,,0,36,1000,10296.78
-176,OnePlus Nord 4 ,OnePlus,6,1,gris,0,16,512,10306.29
-272,Doogee S Cyber ,Doogee,12,0,,0,32,512,10719.70
-105,Honor 400  ,Honor,22,1,dorado,1,12,512,10747.40
-292,Realme Gt 7 ,Realme,58,0,negro,1,12,256,10748.07
-69,Realme 15 Pro ,Realme,58,0,,1,12,512,10981.87
-54,Realme 14 Pro Plus,Realme,58,0,blanco,1,12,512,10996.94
-157,Motorola Edge 60 Fusion,Motorola,24,0,verde,1,8,256,10999.00
-249,Infinix Gt 30 Pro,Infinix,11,1,negro,1,12,512,10999.00
-62,HONOR 200 Pro ,HONOR,22,1,azul,1,12,512,11028.00
-120,Samsung Galaxy A56 ,Samsung,26,1,negro,1,12,256,11269.02
-278,Realme 14 Pro Plus,Realme,58,0,blanco,1,12,512,11335.50
-262,Infinix Gt 30 Pro,Infinix,11,1,,1,12,512,11491.31
-323,Realme 15 Pro ,Realme,58,0,plata,1,12,512,11992.32
-315,Realme Gt  ,Realme,58,1,negro,1,12,256,12107.81
-288,Realme Gt 7 ,Realme,58,0,azul,1,12,512,12548.62
-99,Xiaomi Poco F7 Pro,Xiaomi,49,1,negro,0,12,256,12599.00
-258,Redmagic 10 Air ,Redmagic,6,0,,1,12,256,12813.36
-143,Doogee Blade 20 Play,Doogee,12,0,negro,1,32,256,12847.80
-273,Doogee Blade Gt Play,Doogee,12,0,,1,20,256,12875.40
-250,Redmagic 10 Air ,Redmagic,6,0,blanco,1,12,256,12896.88
-269,Redmagic 10  ,Redmagic,6,0,,1,12,256,12979.67
-294,Realme Gt 7t ,Realme,58,0,azul,1,12,512,12999.00
-309,Realme 15 Pro ,Realme,58,0,,1,12,512,13059.78
-77,Motorola Razr 50 Ultra,Motorola,24,1,azul,1,12,256,13223.49
-107,Samsung Galaxy S24 ,Samsung,26,1,gris,1,8,128,13999.00
-154,Samsung Galaxy S24 Fe,Samsung,26,0,gris,1,8,128,13999.00
-198,Samsung Galaxy S23 Ultra,Samsung,26,0,negro,1,8,256,14009.00
-158,Xiaomi 14t pro ,Xiaomi,49,1,gris,1,12,512,14060.70
-268,Nubia Red Magic 6S,Nubia,6,1,negro,0,12,128,14999.00
-187,Motorola Edge 60 Pro,Motorola,24,0,azul,1,12,512,16236.00
-209,Motorola Razr 50 Ultra,Motorola,24,1,negro,1,12,512,16550.22
-116,Redmagic 10s 10S Pro,Redmagic,6,1,,1,12,256,16677.00
-12,Xiaomi Poco F7 Ultra,Xiaomi,49,1,amarillo,1,16,512,16767.34
-261,Nubia Redmagic 8s Pro,Nubia,6,0,plata,1,16,512,17399.67
-222,Oneplus 13  ,Oneplus,6,1,negro,1,12,256,17457.88
-82,Redmagic 10 Air ,Redmagic,6,0,hailstone,1,16,512,17460.82
-251,Redmagic 10 Air ,Redmagic,6,0,morado,1,16,512,17527.50
-210,Doogee S200 Ultra ,Doogee,12,0,,1,32,1000,18401.58
-253,Doogee V Max ,Doogee,12,0,,1,36,512,18404.16
-17,Samsung Galaxy S25 Ultra,Samsung,26,0,plata,1,12,256,18929.00
-285,Realme 15 Pro ,Realme,58,0,negro,1,12,512,19999.00
-43,Oppo Find X9 ,Oppo,6,0,negro,1,12,512,21799.00
-255,OnePlus 15 Gaming ,OnePlus,6,1,negro,1,12,256,22055.82
-168,Oppo Find X9 ,Oppo,6,0,gris,1,12,512,22999.00
-257,OnePlus 15 Gaming ,OnePlus,6,1,morado,1,16,512,23893.82
-260,Oneplus 15 16 ,Oneplus,6,1,,1,16,512,23893.82
-263,Oneplus 15 16 ,Oneplus,6,1,negro,1,16,512,23893.82
-
+N,M�delo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio 
+310,Realme C51  ,realme,58,1,verde,0,4,128,1842.03
+117,Invens note Tk01 ,invens,2,1,otro,0,4,96,1842.07
+29,White Shark A60 Black,white shark,5,1,negro,0,4,64,1999
+31,White Shark I16 Pro,white shark,5,1,blanco,0,4,64,1999
+48,White Shark A60 ,white shark,5,1,blanco,0,4,64,1999
+58,Samsung Galaxy A05 ,samsung,26,1,negro,0,4,128,1999
+75,Motorola E15  ,motorola,24,0,azul,0,2,64,1999
+131,White Shark ss25 ,white shark,5,1,blanco,0,8,128,1999
+149,Zte Blade A56 ,zte,4,0,dorado,0,12,128,1999
+183,Motorola E15  ,motorola,24,0,morado,0,2,64,1999
+208,Intel A50 A667l ,intel,1,1,amarillo,0,2,64,1999
+230,Ssjsj   ,sjsj,14,0,morado,0,2,16,2029.5
+235,Ssjsj   ,sjsj,14,0,negro,0,2,16,2029.5
+119,Samsung Galaxy A06 64,samsung,26,0,azul,0,4,64,2079
+121,Xiaomi Poco C71 ,xiaomi,49,1,azul,0,4,128,2085
+102,Moto G05 4 ,motorola,24,0,rojo,0,4,64,2099
+85,Vivo X25 Ultra ,vivo,5,0,black),0,8,128,2113.7
+320,Realme Note 70T ,realme,58,0,dorado,0,4,64,2120.42
+46,Xiaomi Poco C71 ,xiaomi,49,1,negro,0,4,128,2185
+290,Realme Note 60 ,realme,58,1,negro,0,6,128,2196.8
+104,Vivo X25 Ultra ,vivo,5,0,dorado,0,8,128,2205.6
+229,Ssjsj   ,sjsj,14,0,morado,0,2,16,2214
+28,Samsung Galaxy A05s ,samsung,26,0,negro,0,4,128,2288
+322,Realme Note 60 128,realme,58,0,azul,0,8,128,2300
+236,Sjsj Ssjsj Mobile ,sjsj,14,0,otro,0,8,8,2366.21
+214,Nubia V70  ,nubia,6,0,gris,0,6,128,2388.66
+165,Honor X5b 4 ,honor,22,1,azul,0,4,128,2399
+239,Honor X5b 4 ,honor,22,1,morado,0,4,128,2499
+141,Cubot A40  ,cubot,14,0,morado,0,4,256,2520.45
+186,Oscal® Tiger Lite ,oscal�,1,1,otro,0,24,256,2533.12
+243,Note13 Pro+ ,note,1,0,negro,0,2,16,2535.53
+303,Realme C21y Unisoc ,realme,58,0,azul,0,4,64,2599
+45,Samsung Galaxy A16 ,samsung,26,1,verde,1,6,128,2699
+60,ZTE Focus  ,zte,4,0,negro,0,4,256,2699
+264,Pava 6 pro   ,pava,1,0,otro,1,16,512,2704.36
+192,Realme Note 70T ,realme,58,1,otro,0,4,128,2726.16
+118,Samsung Galaxy A16 ,samsung,26,0,gris,1,4,128,2805
+152,Motorola Moto ,motorola,24,1,negro,1,8,128,2815.82
+26,Pocophone Poco M5s ,xiaomi,49,1,gris,0,8,256,2846.25
+147,Vivo V30 Lite ,vivo,5,0,dorado,1,12,256,2890.6
+238,Cubot A10  ,cubot,14,0,morado,0,4,128,2901.52
+18,Zte Blade V70 ,zte,4,0,verde,0,14,256,2905.14
+181,Infinix Hot 50i 256,infinix,11,1,negro,0,4,256,2932
+173,Hotwav Note 15 ,hotwav,2,0,otro,0,8,64,2945.6
+231,Ssjsj   ,sjsj,14,0,morado,0,2,16,2968.79
+232,Ssjsj S25ultra  ,sjsj,14,0,blanco,0,2,16,2968.79
+233,Ssjsj 13promax  ,sjsj,14,0,negro,0,2,16,2968.79
+224,Ssjsj 15promax  ,sjsj,14,0,dorado,0,3,64,2968.97
+225,Ssjsj 14promax  ,sjsj,14,0,blanco,0,2,16,2968.97
+226,Ssjsj 14promax  ,sjsj,14,0,negro,0,3,64,2968.97
+227,Ssjsj 13promax  ,sjsj,14,0,morado,0,3,64,2968.97
+234,Ssjsj   ,sjsj,14,0,verde,0,3,32,2969.34
+25,Motorola Moto G15 ,motorola,24,0,gris,0,4,256,2999
+73,Motorola G15  ,motorola,24,0,gris,0,4,256,2999
+108,White Shark S25ultra+ ,white shark,5,1,blanco,0,16,512,2999
+194,Xiaomi Redmi 15c 4+128,xiaomi,49,0,negro,0,4,128,2999
+197,Xiaomi Redmi 15c ,xiaomi,49,0,azul,0,8,256,2999
+293,Realme C61  ,realme,58,0,verde,0,4,256,2999
+159,Xiaomi Pocophone Poco C75,xiaomi,49,1,negro,0,6,128,3003.66
+70,Infinix Hot 60i ,infinix,11,0,rojo,0,8,256,3010
+203,Motorola Moto G54 ,motorola,24,1,otro,1,8,128,3017.4
+98,Xiaomi Pocophone Poco M7,xiaomi,49,1,azul,0,6,128,3018.18
+298,Realme Note 70T ,realme,58,0,negro,0,4,128,3131.96
+87,Itel S26 Ultra ,itel,1,1,otro,0,16,256,3198.12
+188,Xiaomi Redmi Note 14,xiaomi,49,1,verde,0,6,128,3199
+92,Xiaomi Pocophone Xiaomi Poco,xiaomi,49,1,negro,0,8,256,3299
+317,Realme 10  ,realme,58,0,negro,0,8,128,3299
+133,Xiaomi Pocophone Poco ,xiaomi,49,1,morado,0,8,256,3333
+67,Honor Play 9s ,honor,22,1,negro,0,8,256,3390
+68,X-tigi Bison1 Kingkong ,x-tigi,1,1,negro,0,6,64,3398.5
+301,Realme C65  ,realme,58,0,dorado,0,6,128,3455.11
+38,Motorola Moto G34 ,motorola,24,1,azul,1,8,256,3471.61
+49,Moto G34  ,motorola,24,1,negro,1,8,256,3471.61
+51,Xiaomi Poco M7 ,xiaomi,49,1,plata,0,8,256,3482.27
+20,Realme C75  ,realme,58,0,negro,0,8,256,3499
+281,Realme C75  ,realme,58,1,negro,0,8,256,3499
+284,Realme C63  ,realme,58,0,azul,0,8,256,3499
+321,Realme Note 50 128,realme,58,0,azul,0,8,128,3500
+172,Cubot King Kong Power,cubot,14,1,negro,0,6,256,3556.81
+122,Hotwav Note 16 Pro,hotwav,2,0,otro,0,12,128,3558.13
+307,Realme 9  ,realme,58,0,blanco,0,8,128,3559
+86,Oppo A40 128 ,oppo,6,0,morado,0,4,128,3599
+1,Poco M6  ,xiaomi,49,1,plata,0,8,256,3637.4
+124,Cubot Kingkong Es ,cubot,14,1,negro,0,6,128,3650.78
+95,INVENS Ultra 13P ,invens,2,1,otro,0,16,128,3675.82
+304,Realme P3 Lite ,realme,58,0,otro,0,8,256,3684
+259,Gt10pro   ,gt10pro,1,1,plata,0,16,512,3688
+94,Realme P3 Lite ,realme,58,0,otro,0,8,256,3706
+76,Moto55 Moto g55 ,motorola,24,1,negro,0,8,256,3714.41
+125,Cubot Kingkong Es ,cubot,14,1,negro,0,6,256,3799.21
+156,Xiaomi Redmi A5 4g,xiaomi,49,0,negro,0,4,128,3829
+206,Nubia Music 2 ,nubia,6,0,otro,0,8,256,3832
+241,Cubot Kingkong Ace2 ,cubot,14,1,verde,0,6,128,3855.71
+204,Samsung Galaxy S20 ,samsung,26,0,negro,1,12,128,3919
+144,Honor X6c 4g 6,honor,22,0,negro,0,6,128,3999
+145,Honor X6c 4g 6,honor,22,0,azul,0,6,128,3999
+171,Honor X6b 4g 256,honor,22,0,morado,0,6,256,3999
+100,Xiaomi Pocophone Poco M7,xiaomi,49,1,morado,0,8,256,4170.79
+128,Honor X8b  ,honor,22,0,azul,0,8,512,4185
+295,Realme Note  ,realme,58,0,negro,0,4,128,4198.92
+140,Cubot P90  ,cubot,14,0,morado,0,12,256,4206.87
+175,Samsung Galaxy A16 ,samsung,26,0,negro,0,8,256,4234.12
+228,Ssjsj   ,sjsj,14,0,negro,0,3,64,4243.68
+88,Cubot King Kong 8,cubot,14,1,negro,0,6,256,4284.29
+30,Samsung Galaxy A16 ,samsung,26,1,negro,1,6,128,4286
+15,Honor X8b  ,honor,22,0,plata,1,8,512,4299
+308,Realme C67  ,realme,58,0,negro,0,16,256,4300
+223,F150 B2 PRO ,f150,1,1,negro,0,12,256,4345.31
+146,Vivo Y19s  ,vivo,5,0,plata,0,8,256,4377
+167,Xiaomi Pocophone Xiaomi Poco,xiaomi,49,1,negro,0,6,128,4379
+313,Realme C71 4 ,realme,58,0,otro,0,4,256,4469
+59,Moto G15 128 ,motorola,24,0,gris,0,4,128,4489
+66,Motorola Moto G15 ,motorola,24,0,Naranja,0,4,128,4489
+148,Blackview Wave 8 ,blackview,3,1,otro,0,4,128,4499
+84,Samsung Galaxy A35 ,samsung,26,0,azul,1,6,128,4616
+61,Motorola Moto G15 ,motorola,24,0,verde,0,4,256,4626
+177,Cubot X100  ,cubot,14,1,negro,1,8,256,4639.69
+202,Realme Note 70 ,realme,58,1,otro,0,4,256,4799
+300,Realme Note 70 ,realme,58,1,otro,0,16,256,4799
+136,Motorola Moto S50 ,motorola,24,0,gris,1,12,256,4886.69
+114,Xiaomi Redmi Note 14,xiaomi,49,1,negro,0,8,256,4899.02
+280,Realme LINHA C C63,realme,58,1,verde,0,8,256,4899.02
+81,Cmf by Nothing Phone,nothing phone,1,1,negro,0,8,256,4921.24
+39,Samsung Galaxy A16 ,samsung,26,0,gris,0,4,128,4949
+151,Samsung Galaxy A16 ,samsung,26,0,negro,0,4,128,4949
+220,Nubia Neo  ,nubia,6,0,negro,1,8,256,4961.86
+193,Realme C71  ,realme,58,0,otro,0,8,256,4989
+24,Xiaomi Redmi 13x ,xiaomi,49,1,negro,0,8,512,4999
+44,Xiaomi Redmi 13x 256,xiaomi,49,1,azul,0,8,256,4999
+55,Honor X7c  ,honor,22,0,negro,0,8,256,4999
+63,Tecno Pova 6 ,tecno,4,0,verde,0,8,256,4999
+64,Moto G35  ,motorola,24,0,negro,0,4,256,4999
+89,Xiaomi Redmi Note 14,xiaomi,49,1,azul,0,8,256,4999
+90,Xiaomi Pocophone Poco X7,xiaomi,49,0,negro,0,8,256,4999
+103,Vivo Y19s 256 ,vivo,5,0,plata,0,8,256,4999
+132,Honor X7c  ,honor,22,0,verde,0,8,256,4999
+138,ZTE Axon 70 ,zte,4,0,verde,0,6,256,4999
+161,Xiaomi Pocophone Poco X7,xiaomi,49,0,verde,0,8,256,4999
+190,Huawei Nova 10 SE,huawei,1,0,verde,0,8,256,4999
+256,Tecno Pova 6 Pro,tecno,4,1,gris,1,8,256,5092.2
+246,Ssjsj S25ultra  ,sjsj,14,0,azul,0,8,128,5221.42
+191,Doogee Note 59 ,doogee,12,0,otro,1,32,128,5476.08
+221,Oukitel C61 Pro ,oukitel,1,0,morado,0,24,256,5476.69
+101,Xiaomi Poco F6 ,xiaomi,49,0,verde,0,8,256,5482.39
+16,Samsung Galaxy M35 ,samsung,26,0,azul,1,6,128,5499
+111,Samsung Galaxy A17 ,samsung,26,1,negro,1,8,256,5499
+267,Xiaomi Redmi K50 Gaming,xiaomi,49,1,negro,0,12,256,5499
+27,Motorola Moto G75 ,motorola,24,1,negro,1,8,256,5506.28
+270,Doogee Blade 20 ,doogee,12,0,otro,0,4,128,5507.4
+109,Xiaomi Redmi Note ,xiaomi,49,0,azul,0,12,512,5514
+22,Motorola Edge 50 Fusion,motorola,24,0,azul,1,8,256,5522.22
+142,Doogee Fire 6 Power,doogee,12,0,otro,0,20,256,5540.47
+11,Infinix Note 50x ,infinix,11,1,gris,1,8,256,5570
+244,Cubot Kingkong Power 5,cubot,14,1,negro,0,6,128,5618.84
+160,Tecno Pova Slim ,tecno,4,1,otro,1,8,256,5661.04
+79,Moto G85  ,motorola,24,0,azul,1,8,256,5699
+179,Xiaomi Pocophone Poco M7,xiaomi,49,1,plata,0,8,256,5713
+74,Xiaomi Poco X7 Pro,xiaomi,49,0,negro,1,12,256,5727
+252,DOOGEE Fire 3 ,doogee,12,1,otro,0,12,64,5747.4
+71,Fossibot F112 Pro ,fossibot,2,1,azul,0,24,256,5856.97
+10,Infinix Note 50 Pro,infinix,11,0,morado,0,8,256,5881.6
+130,Cubot KingKong 9 ,cubot,14,1,negro,0,12,256,5911.81
+50,Realme 12 Pro ,realme,58,0,azul,0,12,512,5937.84
+137,Xiaomi Redmi Note 13,xiaomi,49,1,negro,0,8,256,5974
+91,Honor X7c 4g ,honor,22,1,white,0,8,256,5999
+96,Motorola Moto G56 256,motorola,24,0,gris,0,8,256,5999
+205,Motorola Edge 40 Neo,motorola,24,0,negro,1,8,256,5999
+277,Realme 15t  ,realme,58,0,otro,1,8,256,5999
+279,Realme 12  ,realme,58,0,verde,0,8,256,5999
+2,Xiaomi Redmi Note 14s,xiaomi,49,0,negro,0,12,512,6047.02
+78,Samsung Galaxy A26 ,samsung,26,0,amoled,1,8,256,6055
+306,Realme 15t  ,realme,58,0,plata,1,8,256,6193.72
+56,Xiaomi Pocophone Poco M7,xiaomi,49,1,negro,1,12,512,6199
+112,Google Pixel 8A ,google,1,0,negro,0,8,128,6199
+196,Honor X8c  ,honor,22,0,verde,0,8,256,6249
+215,Oppo A5 Pro Azul,oppo,6,0,azul,0,8,256,6249
+305,Realme P3  ,realme,58,0,gris,1,8,256,6428.58
+164,Infinix Note 50 ,infinix,11,0,negro,0,8,256,6502.11
+41,Xiaomi Redmi Note 14,xiaomi,49,1,negro,0,8,256,6522
+72,Honor X8c 4g ,honor,22,0,negro,0,8,512,6671.94
+182,Honor X8c 4g ,honor,22,1,verde,0,8,512,6727.08
+5,Samsung Galaxy A36 ,samsung,26,0,negro,1,6,128,6799
+287,Realme 12 Pro+ ,realme,58,0,beige,1,8,256,6815.4
+207,Samsung Galaxy S23 Plus,samsung,26,0,negro,1,8,256,6917
+33,Xiaomi Redmi Note ,xiaomi,49,0,morado,0,8,256,6937
+9,Xiaomi 12 Pro ,xiaomi,49,1,gris,1,12,256,6983
+312,Realme C53  ,realme,58,0,negro,0,12,256,6998
+113,Samsung Galaxy A56 ,samsung,26,1,negro,1,8,256,6999
+199,DOOGEE Blade10 Max ,doogee,12,0,negro,0,32,256,6999
+115,Xiaomi Redmi Note 14,xiaomi,49,1,morado,1,8,256,7000
+65,Honor 400 Lite ,honor,22,1,verde,1,12,256,7019
+180,Realme 14 Pro ,realme,58,0,blanco,1,8,256,7076.8
+282,Realme 14 Pro ,realme,58,0,gris,1,8,256,7080.65
+129,Xiaomi Poco F6 ,xiaomi,49,0,verde,1,12,512,7168.2
+162,Xiaomi Pocophone Poco X7,xiaomi,49,1,verde,1,12,512,7181.98
+248,Tecno Pova 7 Pro,tecno,1,1,azul,1,12,256,7239.06
+266,Tecno Pova 7 Pro,tecno,4,1,otro,1,12,256,7239.06
+80,Samsung Galaxy A55 ,samsung,26,1,azul,1,8,128,7249
+276,Realme P3 12 ,realme,58,0,otro,1,12,512,7284.56
+57,Xiaomi Poco X7 Pro,xiaomi,49,0,negro,1,8,256,7325.72
+286,Realme P3 12 ,realme,58,0,gris,1,12,512,7343.1
+247,Doogee Blade 10 Max,doogee,12,0,otro,0,20,256,7349.4
+166,Nubia Neo 3GT ,nubia,6,0,amarillo,1,8,256,7499
+299,Realme 14t  ,realme,58,0,negro,1,8,256,7499
+314,Realme 12 Plus ,realme,58,0,otro,0,12,256,7499
+174,Honor 400 12 ,honor,22,0,negro,0,12,256,7529.69
+7,Infinix GT 30 Pro,infinix,11,1,gris,1,12,256,7570
+291,Realme 15  ,realme,58,0,gris,1,8,256,7598
+52,Honor X9c 256 ,honor,22,0,negro,0,8,256,7679
+155,Xiaomi Poco F6 ,xiaomi,49,0,negro,1,12,512,7794.83
+170,Fossibot F106  ,fossibot,2,0,negro,0,15,256,7807.13
+42,Infinix GT 30 Pro,infinix,11,1,blanco,1,12,256,7999
+318,Realme C55 256 ,realme,58,0,otro,0,8,256,8000
+265,Xiaomi Redmi K50 Gaming,xiaomi,49,1,plata,0,12,256,8048.85
+6,Xiaomi Redmi Note 14,xiaomi,49,1,negro,1,8,256,8181
+35,Xiaomi Poco F7 ,xiaomi,49,1,negro,1,12,256,8283.13
+126,Cubot MAX 5 ,cubot,14,1,negro,1,12,256,8284.02
+316,Realme 14t  ,realme,58,1,negro,1,8,256,8302.5
+134,Xiaomi Poco X7 Pro,xiaomi,49,1,verde,1,8,256,8399
+32,Xiaomi Poco X7 Pro,xiaomi,49,0,amarillo,1,12,512,8427.41
+3,Cubot Kingkong 11 ,cubot,14,1,negro,1,16,256,8570
+283,Realme 12 Pro Plus,realme,58,0,azul,0,12,512,8694.24
+311,Realme 14 Pro Plus,realme,58,0,gris,1,12,512,8708.49
+135,Cubot Kingkong X ,cubot,14,1,negro,1,16,256,8719.66
+218,Realme 14 Pro ,realme,58,1,gris,1,12,256,8750
+189,Blackview Bv7300 Rugged Phone,blackview,3,0,otro,0,18,256,8912.33
+237,Oscal Pilot1 18+256 ,oscal,1,0,negro,0,18,256,8953.78
+8,Xiaomi Poco X7 Pro,xiaomi,49,0,negro,1,12,512,8999
+106,Honor Magic 7 Lite,honor,22,0,negro,0,8,512,8999
+254,Infinix Gt 30 Pro,infinix,11,1,negro,1,12,256,8999
+21,Ulefone Armor 24 ,ulefone,2,1,negro,0,24,256,9003.08
+296,Realme 14 Pro Plus,realme,58,0,gris,1,8,256,9087.14
+216,Realme Realme 12 ,realme,58,1,verde,1,8,256,9139.46
+212,Ulefone Armor X31 Pro,ulefone,2,1,otro,1,16,256,9204.63
+4,Infinix Gt 30 Pro,infinix,11,1,gris,1,12,512,9284.5
+37,Samsung Galaxy S25 Fe,samsung,26,0,azul,1,8,128,9499.99
+13,Oppo Reno14 F ,oppo,6,1,verde,1,12,256,9554.66
+169,Xiaomi Poco F7 ,xiaomi,49,1,plata,0,12,256,9669
+297,Realme 14 Pro ,realme,58,0,gris,1,12,512,9699
+14,Samsung Galaxy A56 ,samsung,26,0,negro,1,8,128,9800
+289,Realme 13 Pro Plus,realme,58,0,dorado,1,8,256,9823.94
+53,Xiaomi Poco F7 ,xiaomi,49,1,blanco,1,12,512,9857.56
+83,Samsung Galaxy A56 ,samsung,26,1,gris,1,8,256,9899
+23,Honor Magic 7 Lite,honor,22,0,morado,1,8,512,9999
+127,Blackview BL7000  ,blackview,3,1,otro,1,24,256,9999
+163,Oppo A5 Pro ,oppo,6,0,rosa,1,16,256,9999
+211,Xiaomi Redmi Note 14,xiaomi,49,1,azul,1,12,512,9999
+217,Honor X9c  ,honor,22,1,negro,1,8,256,9999
+302,Realme 15 Pro ,realme,58,0,otro,1,12,512,9999
+271,Doogee Blade20 Max es,doogee,12,1,otro,0,36,1000,10296.78
+176,OnePlus Nord 4 ,oneplus,6,1,gris,0,16,512,10306.29
+272,Doogee S Cyber ,doogee,12,0,otro,0,32,512,10719.7
+105,Honor 400  ,honor,22,1,dorado,1,12,512,10747.4
+292,Realme Gt 7 ,realme,58,0,negro,1,12,256,10748.07
+69,Realme 15 Pro ,realme,58,0,otro,1,12,512,10981.87
+54,Realme 14 Pro Plus,realme,58,0,blanco,1,12,512,10996.94
+157,Motorola Edge 60 Fusion,motorola,24,0,verde,1,8,256,10999
+249,Infinix Gt 30 Pro,infinix,11,1,negro,1,12,512,10999
+62,HONOR 200 Pro ,honor,22,1,azul,1,12,512,11028
+120,Samsung Galaxy A56 ,samsung,26,1,negro,1,12,256,11269.02
+278,Realme 14 Pro Plus,realme,58,0,blanco,1,12,512,11335.5
+262,Infinix Gt 30 Pro,infinix,11,1,otro,1,12,512,11491.31
+323,Realme 15 Pro ,realme,58,0,plata,1,12,512,11992.32
+315,Realme Gt  ,realme,58,1,negro,1,12,256,12107.81
+288,Realme Gt 7 ,realme,58,0,azul,1,12,512,12548.62
+99,Xiaomi Poco F7 Pro,xiaomi,49,1,negro,0,12,256,12599
+258,Redmagic 10 Air ,redmagic,6,0,otro,1,12,256,12813.36
+143,Doogee Blade 20 Play,doogee,12,0,negro,1,32,256,12847.8
+273,Doogee Blade Gt Play,doogee,12,0,otro,1,20,256,12875.4
+250,Redmagic 10 Air ,redmagic,6,0,blanco,1,12,256,12896.88
+269,Redmagic 10  ,redmagic,6,0,otro,1,12,256,12979.67
+294,Realme Gt 7t ,realme,58,0,azul,1,12,512,12999
+309,Realme 15 Pro ,realme,58,0,otro,1,12,512,13059.78
+77,Motorola Razr 50 Ultra,motorola,24,1,azul,1,12,256,13223.49
+107,Samsung Galaxy S24 ,samsung,26,1,gris,1,8,128,13999
+154,Samsung Galaxy S24 Fe,samsung,26,0,gris,1,8,128,13999
+198,Samsung Galaxy S23 Ultra,samsung,26,0,negro,1,8,256,14009
+158,Xiaomi 14t pro ,xiaomi,49,1,gris,1,12,512,14060.7
+268,Nubia Red Magic 6S,nubia,6,1,negro,0,12,128,14999
+187,Motorola Edge 60 Pro,motorola,24,0,azul,1,12,512,16236
+209,Motorola Razr 50 Ultra,motorola,24,1,negro,1,12,512,16550.22
+116,Redmagic 10s 10S Pro,redmagic,6,1,otro,1,12,256,16677
+12,Xiaomi Poco F7 Ultra,xiaomi,49,1,amarillo,1,16,512,16767.34
+261,Nubia Redmagic 8s Pro,nubia,6,0,plata,1,16,512,17399.67
+222,Oneplus 13  ,oneplus,6,1,negro,1,12,256,17457.88
+82,Redmagic 10 Air ,redmagic,6,0,hailstone,1,16,512,17460.82
+251,Redmagic 10 Air ,redmagic,6,0,morado,1,16,512,17527.5
+210,Doogee S200 Ultra ,doogee,12,0,otro,1,32,1000,18401.58
+253,Doogee V Max ,doogee,12,0,otro,1,36,512,18404.16
+17,Samsung Galaxy S25 Ultra,samsung,26,0,plata,1,12,256,18929
+285,Realme 15 Pro ,realme,58,0,negro,1,12,512,19999
+43,Oppo Find X9 ,oppo,6,0,negro,1,12,512,21799
+255,OnePlus 15 Gaming ,oneplus,6,1,negro,1,12,256,22055.82
+168,Oppo Find X9 ,oppo,6,0,gris,1,12,512,22999
+257,OnePlus 15 Gaming ,oneplus,6,1,morado,1,16,512,23893.82
+260,Oneplus 15 16 ,oneplus,6,1,otro,1,16,512,23893.82
+263,Oneplus 15 16 ,oneplus,6,1,negro,1,16,512,23893.82
