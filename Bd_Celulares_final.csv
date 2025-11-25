@@ -1,4 +1,4 @@
-N,M�delo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio 
+N,Modelo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio 
 310,Realme C51  ,Realme,58,1,verde,0,4,128,1842.03
 117,Invens note Tk01 ,Invens,2,1,,0,4,96,1842.07
 29,White Shark A60 Black,White shark,5,1,negro,0,4,64,1999.00
@@ -28,7 +28,7 @@ N,M�delo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio
 165,Honor X5b 4 ,Honor,22,1,azul,0,4,128,2399.00
 239,Honor X5b 4 ,Honor,22,1,morado,0,4,128,2499.00
 141,Cubot A40  ,Cubot,14,0,morado,0,4,256,2520.45
-186,Oscal® Tiger Lite ,Oscal®,1,1,,0,24,256,2533.12
+186,OscalÂ® Tiger Lite ,OscalÂ®,1,1,,0,24,256,2533.12
 243,Note13 Pro+ ,Note,1,0,negro,0,2,16,2535.53
 303,Realme C21y Unisoc ,Realme,58,0,azul,0,4,64,2599.00
 45,Samsung Galaxy A16 ,Samsung,26,1,verde,1,6,128,2699.00
@@ -296,3 +296,4 @@ N,M�delo,Marca,Ocurrencia marca,Dual Sim,Color,5G,RAM (GB),ROM (GB),Precio
 257,OnePlus 15 Gaming ,OnePlus,6,1,morado,1,16,512,23893.82
 260,Oneplus 15 16 ,Oneplus,6,1,,1,16,512,23893.82
 263,Oneplus 15 16 ,Oneplus,6,1,negro,1,16,512,23893.82
+
